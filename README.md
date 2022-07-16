@@ -2,7 +2,7 @@
 
 This program tests and demonstrates the usage of firebase in storing images and data associated with those images.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/iTVWpD3sFW8)
 
 # Cloud Database
 
